@@ -1,0 +1,8 @@
+ROLL_START: "@(#CCFF33)抽奖开始!"
+TIME_LEFT: "剩余{time}秒开奖，可能是：{randomName}中奖哦!"
+CREATE_ROLL: "{creator}创建了一个抽奖，奖品是：{prize}，参与人数：{count}，中奖人数：{winnerCount}"
+PARTNER: "参与者名单如下: {names}，共{count}人"
+TIME_START: "现在开始倒计时10秒抽奖："
+CONGRATULATION: "恭喜{winners}中奖"
+COMMA: "、"
+NAME_COLOR : "(#46a1a2)"

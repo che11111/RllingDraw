@@ -1,0 +1,9 @@
+name: RollingDraw
+main: com.che1sBukkit.RollingDraw.Roll
+version: 1.0.0
+author: che1s
+
+commands:
+    rollingdraw:
+        permission: rollingdraw.administrator
+        description: create a roll
